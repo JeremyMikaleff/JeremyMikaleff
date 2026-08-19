@@ -103,7 +103,7 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 
 💼 **LinkedIn :** [Jérémy Mikaleff](https://www.linkedin.com/in/jeremy-mikaleff/)
 
-🤗 **Hugging Face :** à venir
+🤗 **Hugging Face :** [Hugging Face Spaces](https://huggingface.co/JeremyMikaleff)
 
 🧪 **AI Lab :** à venir
 <!--
