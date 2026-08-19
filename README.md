@@ -38,7 +38,8 @@ Pipeline permettant de collecter et agréger des données provenant de plusieurs
 
 `Python` `API REST` `PostgreSQL` `Data Engineering`
 
-→ Documentation et repository à venir
+→ BDD : https://github.com/Projets-finaux-Simplon-2024/build_bdd_equide
+→ API : https://github.com/Projets-finaux-Simplon-2024/api_equide
 
 ### Application CO₂
 
