@@ -30,7 +30,11 @@ Projet autour de l'agrégation et de la recherche documentaire pour enrichir le 
 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `MinIO` `Embeddings` `MLflow`
 
-→ Documentation et repository à venir
+→ API : https://github.com/Projets-finaux-Simplon-2024/API-Anderson-BDD
+
+→ Front : https://github.com/Projets-finaux-Simplon-2024/front-anderson
+
+→ Monitoring : https://github.com/Projets-finaux-Simplon-2024/monitoring-anderson
 
 ### API de données équines
 
@@ -39,6 +43,7 @@ Pipeline permettant de collecter et agréger des données provenant de plusieurs
 `Python` `API REST` `PostgreSQL` `Data Engineering`
 
 → BDD : https://github.com/Projets-finaux-Simplon-2024/build_bdd_equide
+
 → API : https://github.com/Projets-finaux-Simplon-2024/api_equide
 
 ### Application CO₂
@@ -47,7 +52,7 @@ Application full-stack développée autour de données liées aux émissions de 
 
 `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL`
 
-→ Documentation et repository à venir
+→ https://github.com/JeremyMikaleff/certification_E5
 
 ---
 
