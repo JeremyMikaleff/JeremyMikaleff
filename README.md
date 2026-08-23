@@ -31,6 +31,7 @@ Projet autour de l'agrégation et de la recherche documentaire pour enrichir le 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `MinIO` `Embeddings` `MLflow`
 
 → API : https://github.com/Projets-finaux-Simplon-2024/API-Anderson-BDD
+
   → Démo en ligne : https://huggingface.co/spaces/JeremyMikaleff/Anderson-Semantic_Retrieval_for_RAG
 
 → Front : https://github.com/Projets-finaux-Simplon-2024/front-anderson
