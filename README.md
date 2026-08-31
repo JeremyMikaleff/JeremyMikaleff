@@ -71,7 +71,7 @@ J'y publierai progressivement :
 - des travaux autour des LLM, embeddings et RAG ;
 - ma veille technique et les ressources associées.
 
-> Le Lab est actuellement en construction.
+→ [Lien du labo](https://github.com/JeremyMikaleff/AI-Lab)
 
 ---
 
