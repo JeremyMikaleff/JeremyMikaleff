@@ -107,7 +107,7 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 
 🤗 **Hugging Face :** [Hugging Face Spaces](https://huggingface.co/JeremyMikaleff)
 
-🧪 **AI Lab :** à venir
+🧪 **AI Lab :** https://github.com/JeremyMikaleff/AI-Lab
 <!--
 **JeremyMikaleff/JeremyMikaleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
