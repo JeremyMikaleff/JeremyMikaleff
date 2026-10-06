@@ -103,8 +103,8 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 
 ☁️ Cloud & Intelligence Artificielle
 
-- Microsoft Certified — Azure Fundamentals (AZ-900) [Voir](./assets/certifications/Certifications-AZ900 - jrmymikaleff-4154 _ Microsoft Learn.pdf)
-- Microsoft Certified — Azure AI Fundamentals (AI-900) [Voir](./assets/certifications/Certifications-AI900 - jrmymikaleff-4154 _ Microsoft Learn.pdf)
+- Microsoft Certified — Azure Fundamentals (AZ-900) [Voir](./assets/certifications/Certifications-AZ900-jrmymikaleff-4154_Microsoft_Learn.pdf)
+- Microsoft Certified — Azure AI Fundamentals (AI-900) [Voir](./assets/certifications/Certifications-AI900-jrmymikaleff-4154_Microsoft_Learn.pdf)
 
 🌱 Numérique responsable
 
@@ -121,7 +121,7 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 Anglais — niveau B2
 TOEIC Listening & Reading : 785/990, (obtenu 31 Aug 2022).
 Score arrivé à expiration : 31 Aug 2024
-[Voir](./assets/certifications/TOEIC Digital Score Report.pdf)
+[Voir](./assets/certifications/TOEIC_Digital_Score_Report.pdf)
 
 ---
 <br>
