@@ -119,12 +119,9 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 🌍 Langues
 
 Anglais — niveau B2
-
-TOEIC Listening & Reading : 785/990, (obtenu 31 Aug 2022).
-
-Score arrivé à expiration : 31 Aug 2024
-
-[Voir](./assets/certifications/TOEIC_Digital_Score_Report.pdf)
+- TOEIC Listening & Reading : 785/990, (obtenu 31 Aug 2022).
+- Score arrivé à expiration : 31 Aug 2024
+- [Voir](./assets/certifications/TOEIC_Digital_Score_Report.pdf)
 
 ---
 <br>
