@@ -103,14 +103,14 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 
 ☁️ Cloud & Intelligence Artificielle
 
-- Microsoft Certified — Azure Fundamentals (AZ-900)
-- Microsoft Certified — Azure AI Fundamentals (AI-900)
+- Microsoft Certified — Azure Fundamentals (AZ-900) [Voir](./assets/certifications/Certifications-AZ900 - jrmymikaleff-4154 _ Microsoft Learn.pdf)
+- Microsoft Certified — Azure AI Fundamentals (AI-900) [Voir](./assets/certifications/Certifications-AI900 - jrmymikaleff-4154 _ Microsoft Learn.pdf)
 
 🌱 Numérique responsable
 
-- Capgemini — Green IT Essentials Certification
-- Capgemini — Green IT & Eco Design – Architect Certification
-- Capgemini — Green IT & Eco Design – Software Engineer Certification
+- Capgemini — Green IT Essentials Certification [Voir](./assets/certifications/Green_it_essentials_certification.pdf)
+- Capgemini — Green IT & Eco Design – Architect Certification [Voir](./assets/certifications/Green_it_architect_certification.pdf)
+- Capgemini — Green IT & Eco Design – Software Engineer Certification [Voir](./assets/certifications/Green_it_software_engineer_certification.pdf)
 
 🏗️ Autres certifications
 
@@ -121,6 +121,7 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 Anglais — niveau B2
 TOEIC Listening & Reading : 785/990, (obtenu 31 Aug 2022).
 Score arrivé à expiration : 31 Aug 2024
+[Voir](./assets/certifications/TOEIC Digital Score Report.pdf)
 
 ---
 <br>
