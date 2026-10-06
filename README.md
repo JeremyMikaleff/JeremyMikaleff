@@ -9,6 +9,7 @@ Mon parcours m'a amené du **développement web** au **développement applicatif
 Je poursuis actuellement cette évolution à travers mes projets personnels, mes expérimentations et ma veille technique.
 
 ---
+<br>
 
 ## 🔎 En ce moment
 
@@ -21,6 +22,7 @@ Je poursuis actuellement cette évolution à travers mes projets personnels, mes
 📚 Mise en place d'une **veille Data & IA** pour suivre les technologies, modèles, outils et pratiques du domaine.
 
 ---
+<br>
 
 ## 🚀 Projets
 
@@ -57,6 +59,7 @@ Application full-stack développée autour de données liées aux émissions de 
 → https://github.com/JeremyMikaleff/certification_E5
 
 ---
+<br>
 
 ## 🧪 AI Lab
 
@@ -74,6 +77,7 @@ J'y publierai progressivement :
 → [Lien du labo](https://github.com/JeremyMikaleff/AI-Lab)
 
 ---
+<br>
 
 ## 🛠️ Technologies
 
@@ -93,13 +97,33 @@ React • HTML • CSS
 Docker • Git • GitHub • Jenkins • Kubernetes
 
 ---
+<br>
 
 ## 📜 Certifications
 
-- Microsoft Certified — **Azure Fundamentals (AZ-900)**
-- Microsoft Certified — **Azure AI Fundamentals (AI-900)**
+☁️ Cloud & Intelligence Artificielle
+
+- Microsoft Certified — Azure Fundamentals (AZ-900)
+- Microsoft Certified — Azure AI Fundamentals (AI-900)
+
+🌱 Numérique responsable
+
+- Capgemini — Green IT Essentials Certification
+- Capgemini — Green IT & Eco Design – Architect Certification
+- Capgemini — Green IT & Eco Design – Software Engineer Certification
+
+🏗️ Autres certifications
+
+- CACES catégories 1B, 3 et 5
+
+🌍 Langues
+
+Anglais — niveau B2
+TOEIC Listening & Reading : 785/990, (obtenu 31 Aug 2022).
+Score arrivé à expiration : 31 Aug 2024
 
 ---
+<br>
 
 ## 🎮 Centres d’intérêt techniques
 
@@ -114,6 +138,7 @@ Je publie progressivement mes créations sur Nexus Mods :
 → [Mes mods sur Nexus Mods](https://www.nexusmods.com/profile/GondarBros/mods)
 
 ---
+<br>
 
 ## 🌐 Me retrouver
 
