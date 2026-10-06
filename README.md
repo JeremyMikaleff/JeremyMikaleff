@@ -12,9 +12,9 @@ Je poursuis actuellement cette évolution à travers mes projets personnels, mes
 
 ## 🔎 En ce moment
 
-🎓 Admis en formation **Bac+5 Data & Intelligence Artificielle** pour la rentrée 2026.
+🎓 Admis en formation **Bac+5 Data & Intelligence Artificielle**.
 
-💼 Je recherche une **alternance en développement, Data & IA** à partir de septembre/octobre 2026.
+💼 Je recherche une **alternance en développement, Data & IA**, et suis disponible immédiatement.
 
 🧪 Construction progressive de mon **AI Lab**, consacré à mes expérimentations autour de la Data, du Machine Learning et de l'IA.
 
@@ -101,6 +101,20 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 
 ---
 
+## 🎮 Centres d’intérêt techniques
+
+Je m’intéresse depuis peu au modding de jeux vidéo, que j’ai commencé à explorer sur Baldur’s Gate 3.
+
+Au-delà de la modification du jeu, le modding constitue un exercice technique intéressant : il demande de comprendre une architecture et des fichiers que l’on n’a pas conçus, d’analyser les relations entre les données, de modifier des structures existantes et d’utiliser différents outils de scripting.
+
+Cette pratique me permet notamment d’aborder concrètement la rétro-ingénierie, la manipulation de bases de données et de fichiers structurés, le scripting, le débogage ainsi que les problématiques de compatibilité entre différentes modifications.
+
+Je publie progressivement mes créations sur Nexus Mods :
+
+→ [Mes mods sur Nexus Mods](https://www.nexusmods.com/profile/GondarBros/mods)
+
+---
+
 ## 🌐 Me retrouver
 
 💼 **LinkedIn :** [Jérémy Mikaleff](https://www.linkedin.com/in/jeremy-mikaleff/)
@@ -108,6 +122,8 @@ Docker • Git • GitHub • Jenkins • Kubernetes
 🤗 **Hugging Face :** [Hugging Face Spaces](https://huggingface.co/JeremyMikaleff)
 
 🧪 **AI Lab :** https://github.com/JeremyMikaleff/AI-Lab
+
+🎮 **Nexus mods :** https://www.nexusmods.com/profile/GondarBros/mods
 <!--
 **JeremyMikaleff/JeremyMikaleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
